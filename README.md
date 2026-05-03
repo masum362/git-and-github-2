@@ -1,1 +1,0 @@
-this is a tutorial repository to learn git and github
